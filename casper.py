@@ -61,17 +61,17 @@ args = parser.parse_args()
 
 if args.google :
  clear()
- from import Gmode
+ from Modes import Gmode
 
 if args.scada :
  clear ()
- from import Scada
+ from Modes import Scada
 
 if args.tor :
  clear ()
- from import Tor
+ from Modes import Tor
   
 if args.proxy :
  clear ()
- from import Proxy
+ from Modes import Proxy
 
