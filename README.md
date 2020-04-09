@@ -5,10 +5,16 @@
 
 sudo apt-get install clang 
 
+# requirements
+
+python3 -m pip install -r requirements.txt
+
 # proxybroker
 
 pip3 install aiohttp
+
 pip3 install aiodns
+
 pip3 install maxminddb
 
 python3 -m pip install proxybroker
