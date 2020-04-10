@@ -35,7 +35,7 @@ for gamma in search(query, tld=lux, num=10,stop=50,pause=2):
 print(colored('[+] 90% done ', 'green' ))
 print(colored('[+] 100% done ', 'green' ))
 print(colored('[+] done ', 'green' ))
-print(colored ('[! >] delete .google-cookie file in casper DIR  ' ,'red')) 
+print(colored ('[! >] delete .google-cookie file in Katana DIR  ' ,'red')) 
 
 
 
