@@ -5,6 +5,8 @@
 
 # userland
 
+apt install python3-cffi
+
 apt install python3-pip
 
 apt install libffi-dev
