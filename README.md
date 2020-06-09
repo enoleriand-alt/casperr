@@ -5,7 +5,11 @@
 
 # userland
 
-sudo apt-get install clang 
+apt install python3-pip
+
+apt install libffi-dev
+
+apt-get install clang 
 
 # requirements
 
