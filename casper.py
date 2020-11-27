@@ -61,7 +61,7 @@ args = parser.parse_args()
 
 if args.google :
  clear()
- from Modes import Gmode
+ from Modes import Google
 
 if args.scada :
  clear ()
