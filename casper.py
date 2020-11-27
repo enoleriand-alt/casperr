@@ -44,7 +44,7 @@ A = """
                          `$$$$$$$P
                           `?$$$$F
 
-	Casper dork Scanner code by Eno leriand
+	Casper dork Scanner code by root@darksec:/#
 	please use -h to see help
     """
 print ("")
